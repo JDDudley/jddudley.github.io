@@ -1,4 +1,4 @@
-# 2022.jddudley
+# jddudley
 
 ## Project setup
 ```
